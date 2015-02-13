@@ -1,0 +1,5 @@
+# manifest.yml
+- vendor/*
+- vendor/jquery/*
+- touchy-app.js
+- main.coffee
